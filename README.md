@@ -1,6 +1,6 @@
 # Hi there, I'm Dmitry! 👋 
 
-💻 **Junior Developer** | 🏗️ Building strong foundations | 🌍 Russia  
+💻 **Trainee Developer** | 🏗️ Building strong foundations | 🌍 Russia  
 📚 Currently learning: **Go (Gin) & Python (Flask)**  
 🖥️ OS: **Windows** (Daily) + **Ubuntu** (Learning)  
 🌐 English: **A2 (Technical Learning)**  
