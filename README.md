@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi there, I'm Dmitry! 👋 
 
-<!--
-**d0n77ryth1s4th0m3/d0n77ryth1s4th0m3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Junior Developer** | 🏗️ Building strong foundations | 🌍 Russia  
+📚 Currently learning: **Go (Gin) & Python (Flask)**  
+🖥️ OS: **Windows** (Daily) + **Ubuntu** (Learning)  
+🌐 English: **A2 (Technical Learning)**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skill Levels
+
+**Core Languages**:
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) **Basic**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Basic**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) **Basic**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) **Basic**  
+
+**Frameworks**:
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white) **Learning**  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) **Learning**  
+
+**Tools**:
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)  
+
+---
+
+### 📊 GitHub Stats
+
+[![Dmitry's Stats](https://github-readme-stats.vercel.app/api?username=d0n77ryth1s4th0m3&show_icons=true&theme=radical)](https://github.com/d0n77ryth1s4th0m3)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0n77ryth1s4th0m3&layout=compact&theme=radical)](https://github.com/d0n77ryth1s4th0m3)
+
+---
+
+### 🏗️ Current Projects
+
+🔸 **Go REST API** (WIP) - Learning Gin framework  
+🔸 **Python Web Scraper** - Flask + BeautifulSoup  
+🔸 **C++ Algorithms** - Sorting implementations  
+
+---
+
+### 📫 Connect With Me
+
+📧 **Email**: your-email@example.com  
+💬 **Telegram**: [@yourhandle](https://t.me/yourhandle)  
+💼 **LinkedIn**: [your-profile](https://linkedin.com/in/your-profile)  
+
+---
+
+> "The expert in anything was once a beginner." — Helen Hayes  
+> ⚡ **Fun Fact**: I practice coding while exploring Linux terminal commands!  
+
+![Terminal GIF](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
