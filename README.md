@@ -10,12 +10,14 @@
 ### 🛠️ Tech Stack & Skill Levels
 
 **Core Languages**:
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) **Basic**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Basic**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) **Basic**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) **Basic**  
 
 **Frameworks**:
+
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white) **Learning**  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) **Learning**  
 
@@ -42,13 +44,12 @@
 
 ### 📫 Connect With Me
 
-📧 **Email**: your-email@example.com  
-💬 **Telegram**: [@yourhandle](https://t.me/yourhandle)  
-💼 **LinkedIn**: [your-profile](https://linkedin.com/in/your-profile)  
+📧 **Email**: dtt4h322@gmail.com  
+💬 **Telegram**: [@dtt4h](https://t.me/dtt4h)   
 
 ---
 
-> "The expert in anything was once a beginner." — Helen Hayes  
+> "The expert in anything was once a beginner."  
 > ⚡ **Fun Fact**: I practice coding while exploring Linux terminal commands!  
 
 ![Terminal GIF](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
