@@ -37,9 +37,7 @@
 
 ### 🏗️ Current Projects
 
-🔸 **Go REST API** (WIP) - Learning Gin framework  
-🔸 **Python Web Scraper** - Flask + BeautifulSoup  
-🔸 **C++ Algorithms** - Sorting implementations  
+🔸 **Go REST API** (WIP) - Learning Gin framework
 
 ---
 
