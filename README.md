@@ -1,7 +1,8 @@
 # Hi there, I'm Dmitry! 👋 
 
 💻 **Trainee Developer** | 🏗️ Building strong foundations | 🌍 Russia  
-📚 Currently learning: **Go (Gin) & Python (Flask)**  
+📚 Currently learning: **Go (Gin)
+
 🖥️ OS: **Windows** (Daily) + **Ubuntu** (Learning)  
 🌐 English: **A2 (Technical Learning)**  
 
@@ -11,7 +12,7 @@
 
 **Core Languages**: ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) **Basic** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Basic** ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) **Basic** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) **Basic**  
 
-**Frameworks**: ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white) **Learning** ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) **Learning**  
+**Frameworks**: ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white) **Learning** 
 
 **Tools**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
