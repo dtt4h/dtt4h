@@ -15,13 +15,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-[![Dmitry's Stats](https://github-readme-stats.vercel.app/api?username=d0n77ryth1s4th0m3&show_icons=true&theme=radical)](https://github.com/d0n77ryth1s4th0m3)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0n77ryth1s4th0m3&layout=compact&theme=radical)](https://github.com/d0n77ryth1s4th0m3)
-
----
-
 ### 🏗️ Current Projects
 
 🔸 **Go REST API** (WIP) - Learning Gin framework
