@@ -1,6 +1,6 @@
 # Hi there, I'm Dmitry! 👋 
 
-💻 **Trainee Developer** | 🏗️ Building strong foundations | 🌍 Russia  
+💻 **Go Backend Developer**  
 📚 Currently learning: **Go** (Gin)  
 🖥️ OS: **Windows** (Daily) + **Ubuntu** (Learning)  
 🌐 English: **A2 (Technical Learning)**  
