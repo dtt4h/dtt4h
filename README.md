@@ -7,9 +7,9 @@
 
 ---
 
-### 🛠️ Tech Stack & Skill Levels
+### 🛠️ Tech Stack
 
-**Core Languages**: ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) **Basic** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Basic**   
+**Core Languages**: ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)    
 
 **Frameworks**: ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white) **Learning** 
 
