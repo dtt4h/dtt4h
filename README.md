@@ -25,10 +25,3 @@
 
 📧 **Email**: dtt4h322@gmail.com  
 💬 **Telegram**: [@dtt4h](https://t.me/dtt4h)   
-
----
-
-> "The expert in anything was once a beginner."  
-> ⚡ **Fun Fact**: I practice coding while exploring Linux terminal commands!  
-
-![Terminal GIF](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
