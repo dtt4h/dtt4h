@@ -8,7 +8,7 @@
 ### 🛠️ Tech Stack
 
 **Backend**: Go  
-**Tools & OS**: Ubuntu, Git  
+**Tools**: Git  
 **Databases**: PostgreSQL
 
 ### 📫 Connect With Me
