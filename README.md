@@ -1,5 +1,3 @@
-*Hi there, I'm Dmitry!* 👋 
-
 💻 **Backend Developer with DevOps interests**  
 📚 Currently deepening: **Go**
 
