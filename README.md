@@ -3,7 +3,7 @@
 
 ### 🏗️ Current Projects
 
-🔸 **[To-Do List API](https://github.com/d0n77ryth1s4th0m3/to-do-list-api)** -  Go REST service with JWT auth, SQLite (no CGO), and Docker deployment
+🔸 **[To-Do List API](https://github.com/dtt4hto-do-list-api)** -  Go REST service with JWT auth, SQLite (no CGO), and Docker deployment
 
 ### 🛠️ Tech Stack
 
