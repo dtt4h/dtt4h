@@ -2,8 +2,8 @@
 📚 Currently deepening: **Go**
 
 ### 🏗️ Current Projects
-🔸 **[To-Do List API](https://github.com/dtt4h/to-do-list-api)** -  Go REST service with JWT auth, SQLite (no CGO), and Docker deployment  
-🔸 **[Dungeon-Go](https://github.com/dtt4h/dungeon-go)** - A terminal-based dungeon crawler in Go where you defeat monsters by debugging their source code. 
+🔸 **[To-Do List API](https://github.com/dtt4h/to-do-list-api)** -  Go REST service with JWT auth, SQLite (no CGO), and Docker deployment
+🔸 **[URL shortener](https://github.com/dtt4h/go-url-shortener)** - Go URL shortening service with click analytics 
 
 ### 🛠️ Tech Stack
 **Backend**: Go  
