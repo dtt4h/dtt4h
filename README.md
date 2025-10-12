@@ -2,7 +2,7 @@
 📚 Currently deepening: **Go**
 
 ### 🏗️ Current Projects
-🔸 **[To-Do List API](https://github.com/dtt4h/to-do-list-api)** -  Go REST service with JWT auth, SQLite (no CGO), and Docker deployment
+🔸 **[To-Do List API](https://github.com/dtt4h/to-do-list-api)** -  Go REST service with JWT auth, SQLite (no CGO), and Docker deployment  
 🔸 **[URL shortener](https://github.com/dtt4h/go-url-shortener)** - Go URL shortening service with click analytics 
 
 ### 🛠️ Tech Stack
