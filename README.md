@@ -7,8 +7,8 @@
 
 ### 🛠️ Tech Stack
 **Backend**: Go  
-**Tools**: Git  
-**Databases**: PostgreSQL
+**Tools**: Git, RabbitMQ  
+**Databases**: PostgreSQL, Redis
 
 ### 📫 Connect With Me
 💬 **Telegram**: [@dtt4h](https://t.me/dtt4h)
